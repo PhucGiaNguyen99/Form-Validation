@@ -19,7 +19,10 @@ body {
 /* Left panel (Image & logo) */
 .left-panel {
     flex: 1;
-    background: url('ce2a145b-699e-4fa8-921a-748958c61f8d.png') center center/cover no-repeat;
+    background-image: url('sunflower gargen.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     position: relative;
     color: white;
 }
